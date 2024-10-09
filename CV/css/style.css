@@ -1,0 +1,21 @@
+h1{
+background-color: rgba(14, 90, 230, 0.53);
+text-align: center;
+}
+body{
+    background-color: rgb(226, 253, 249);
+    margin: 80px;
+}
+h3{
+ font-size: 1.80em;
+}   
+img{
+   margin-left: 1200px;
+}
+table{
+    width: 100%;
+    font-size: 1.10em;
+}
+ul{
+    font-size: 1.80em;
+}
